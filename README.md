@@ -1,3 +1,4 @@
+
 josm-gcs-imagery-enabler
 ========================
 
@@ -14,6 +15,11 @@ A little less fight and a little more spark
 ```
 - Some wise dude :)
 
+# UI
+
+The layers show up in the imagery menu like below.
+
+<img width="769" alt="gcs imagery ui" src="https://user-images.githubusercontent.com/1972103/219943498-ef89c16b-5129-416b-a35b-c7134cde0686.png">
 
 # Dev Setup
 
