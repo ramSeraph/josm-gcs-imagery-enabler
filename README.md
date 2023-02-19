@@ -17,8 +17,11 @@ A little less fight and a little more spark
 
 # Dev Setup
 
- This unorthodox setup was because my macosx java build broke so I had to use docker based linux to make things work
- and at the same time "apt-get update" refused to work inside my docker containers.. I suspect Jio.
+ This unorthodox setup was because my macosx java build broke,
+ so I had to use docker based linux to make things work.
+ 
+ And then at the same time `apt-get update` refused to work inside my docker containers.. I suspect Jio messing with my packets. 
+ 
 
 ## One time setup
  * Download gradle
