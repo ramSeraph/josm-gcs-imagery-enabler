@@ -3,7 +3,7 @@ josm-gcs-imagery-enabler
 
 Disables blacklisting of user hosted imagery on Google Cloud Storage
 
-I think the below lines summarize my thinking behind writing this,
+I think the below lines summarize my thinking behind writing this
  without going into the ugliness of the whole situation.
 
 ```
