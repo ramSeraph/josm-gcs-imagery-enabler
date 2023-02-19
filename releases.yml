@@ -1,0 +1,7 @@
+releases:
+    # mandatory: choose a new release label
+  - label: v0.0.1
+    # mandatory: the lowest josm version this plugin release is compatible with
+    minJosmVersion: 18463
+    # optional: a release description. You may refer to github issues.
+    description: Initial Release

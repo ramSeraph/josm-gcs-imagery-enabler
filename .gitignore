@@ -1,5 +1,8 @@
 # Ignore Gradle project-specific cache directory
 .gradle
-
 # Ignore Gradle build output directory
 build
+# folder for docker based gradle setup
+opt
+# github token
+token.txt
