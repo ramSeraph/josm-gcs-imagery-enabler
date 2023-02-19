@@ -4,16 +4,18 @@ josm-gcs-imagery-enabler
 
 Disables blacklisting of user hosted imagery on Google Cloud Storage
 
-I think the below lines summarize my thinking behind writing this
+I think the below lines summarize my thinking behind writing this, 
  without going into the ugliness of the whole situation.
 
-```
-A little less conversation, a little more action, please
-All this aggravation ain't satisfactioning me
-A little more bite, a little less bark
+<blockquote>
+A little less conversation, a little more action, please  
+
+All this aggravation ain't satisfactioning me  
+A little more bite, a little less bark  
 A little less fight and a little more spark
-```
-- Some wise dude :)
+
+</blockquote>
+ Quote by Some wise dude :)
 
 # UI
 
