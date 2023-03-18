@@ -41,7 +41,8 @@ public class GCSImageryMenu
     public static final Comparator<ImageryInfo> alphabeticImageryComparator =
         Comparator.comparing(ii -> ii.getName().toLowerCase(Locale.ENGLISH));
 
-    public GCSImageryMenu(JMenu subMenu) {
+    public GCSImageryMenu(JMenu subMenu)
+    {
         super(subMenu);
         this.subMenu = subMenu;
         setText("GCS Imagery");
@@ -55,7 +56,8 @@ public class GCSImageryMenu
         addMenuListener(new MenuListener() 
         {
             @Override
-            public void menuSelected(MenuEvent e) {
+            public void menuSelected(MenuEvent e)
+            {
                 clearThings();
                 addThings();
             }

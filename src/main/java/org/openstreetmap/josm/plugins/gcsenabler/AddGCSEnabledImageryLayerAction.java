@@ -7,7 +7,9 @@ import org.openstreetmap.josm.actions.JosmAction;
 import org.openstreetmap.josm.actions.AdaptableAction;
 import org.openstreetmap.josm.actions.AddImageryLayerAction;
 
-public class AddGCSEnabledImageryLayerAction extends AddImageryLayerAction implements AdaptableAction {
+public class AddGCSEnabledImageryLayerAction
+    extends AddImageryLayerAction implements AdaptableAction
+{
 
     private static String GCS_PATTERN="https://storage.googleapis.com/(.*)";
 
